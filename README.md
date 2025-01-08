@@ -1,3 +1,40 @@
+# Personal Finance Tracker
+
+## Overview
+
+Personal Finance Tracker is a comprehensive web application built with Next.js and SQLite, designed to help users manage their personal finances effectively. This application allows users to track expenses, view financial summaries, set budgets, and generate detailed reports.
+
+## Features
+
+- **User Authentication**: Secure registration and login system.
+- **Expense Management**: Add, update, and delete expense entries.
+- **Financial Reporting**: Generate and export detailed financial reports.
+- **Interactive Dashboard**: Visualize spending trends and patterns.
+- **Budget Planning**: Set and track budget limits for different categories.
+- **Alerts**: Receive notifications for approaching or exceeding budget limits.
+
+## Tech Stack
+
+- **Frontend**: Next.js, React
+- **Backend**: Next.js API Routes
+- **Database**: SQLite
+- **Authentication**: [Specify your auth method, e.g., NextAuth.js]
+- **Styling**: [Specify your styling method, e.g., Tailwind CSS, CSS Modules]
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
