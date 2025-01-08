@@ -7,6 +7,8 @@ Personal Finance Tracker is a comprehensive web application built with Next.js a
 ## Features
 
 - **User Authentication**: Secure registration and login system.
+
+  
 - **Expense Management**: Add, update, and delete expense entries.
 - **Financial Reporting**: Generate and export detailed financial reports.
 - **Interactive Dashboard**: Visualize spending trends and patterns.
@@ -18,8 +20,7 @@ Personal Finance Tracker is a comprehensive web application built with Next.js a
 - **Frontend**: Next.js, React
 - **Backend**: Next.js API Routes
 - **Database**: SQLite
-- **Authentication**: [Specify your auth method, e.g., NextAuth.js]
-- **Styling**: [Specify your styling method, e.g., Tailwind CSS, CSS Modules]
+- **Styling**: Tailwind CSS, CSS Modules
 
 ## Getting Started
 
