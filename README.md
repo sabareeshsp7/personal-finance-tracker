@@ -12,7 +12,7 @@ Personal Finance Tracker is a comprehensive web application built with Next.js a
   
 - **Expense Management**: Add, update, and delete expense entries.
 
-![Screenshot 2025-01-08 101217](https://github.com/user-attachments/assets/ae27b09f-6972-46fc-82ee-f280cd3dec20)
+![Screenshot 2025-01-08 101303](https://github.com/user-attachments/assets/e0184932-9b05-43c1-935b-dbc0067a2f0e)
 
 - **Financial Reporting**: Generate and export detailed financial reports.
 
