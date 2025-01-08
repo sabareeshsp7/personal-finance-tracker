@@ -16,7 +16,7 @@ Personal Finance Tracker is a comprehensive web application built with Next.js a
 
 - **Financial Reporting**: Generate and export detailed financial reports.
 
-![Screenshot 2025-01-08 101303](https://github.com/user-attachments/assets/e0184932-9b05-43c1-935b-dbc0067a2f0e)
+![Screenshot 2025-01-08 101217](https://github.com/user-attachments/assets/ae27b09f-6972-46fc-82ee-f280cd3dec20)
 
 
 - **Interactive Dashboard**: Visualize spending trends and patterns.
