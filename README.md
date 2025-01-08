@@ -8,11 +8,25 @@ Personal Finance Tracker is a comprehensive web application built with Next.js a
 
 - **User Authentication**: Secure registration and login system.
 
+![Screenshot 2025-01-08 101141](https://github.com/user-attachments/assets/5f763db4-9192-4bca-8b34-497975569b2a)
   
 - **Expense Management**: Add, update, and delete expense entries.
+
+![Screenshot 2025-01-08 101217](https://github.com/user-attachments/assets/ae27b09f-6972-46fc-82ee-f280cd3dec20)
+
 - **Financial Reporting**: Generate and export detailed financial reports.
+
+![Screenshot 2025-01-08 101303](https://github.com/user-attachments/assets/e0184932-9b05-43c1-935b-dbc0067a2f0e)
+
+
 - **Interactive Dashboard**: Visualize spending trends and patterns.
+
+![Screenshot 2025-01-08 101335](https://github.com/user-attachments/assets/2ebf8415-15b7-4704-80e3-68b1e41b050d)
+
 - **Budget Planning**: Set and track budget limits for different categories.
+
+![Screenshot 2025-01-08 101226](https://github.com/user-attachments/assets/892ee43f-d081-4cd3-bef8-f21762f18b19)
+
 - **Alerts**: Receive notifications for approaching or exceeding budget limits.
 
 ## Tech Stack
